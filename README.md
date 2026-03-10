@@ -63,3 +63,23 @@ Lead → Qualified → Demo → Proposal → Closed Won
 ---
 
 ## 📦 Project Structure
+---
+
+## 🗄️ SQL Analysis (Advanced)
+Extended analysis using SQL scripts for ad campaign performance:
+
+- 📊 Campaign CTR & ROAS calculation
+- 📡 Channel performance comparison
+- 📅 Daily spend vs revenue trends
+- ⚠️ Underperforming campaign detection
+
+### Skills Demonstrated
+`SQL` `MySQL` `Data Analysis` `Campaign Optimization` `Google Ads Metrics`
+
+---
+
+## 🛠️ Full Tech Stack
+- Excel (Pivot Tables, Charts, Dashboard)
+- SQL / MySQL
+- PowerPoint (Presentation)
+- PDF (Documentation)
